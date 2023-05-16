@@ -17,7 +17,11 @@ public class TodoMvcShould {
 
     @Test
 
-    public void beAbleToMarkItemComplete(); {
+    public void beAbleToMarkItemComplete() {
+
+    }
+
+    {
         // Arrange
         businessSteps.navigateToHomePage();
         businessSteps.createNewTodoItem(SOME_RANDOM_NAME);
