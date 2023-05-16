@@ -18,7 +18,7 @@ public class TodoMvcShould {
     @Test
 
     public void beAbleToMarkItemComplete() {
-// comment here
+
     }
 
     {
